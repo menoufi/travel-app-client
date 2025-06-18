@@ -1,0 +1,10 @@
+.footer-icon img {
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  transition: transform 0.2s ease;
+}
+
+.footer-icon img:hover {
+  transform: scale(1.1);
+}
